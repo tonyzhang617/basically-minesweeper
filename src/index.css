@@ -36,6 +36,14 @@ ol, ul {
   outline: none;
 }
 
+.unrevealed {
+  background-color: gray;
+}
+
+.revealed {
+  background-color: white;
+}
+
 .kbd-navigation .square:focus {
   background: #ddd;
 }
